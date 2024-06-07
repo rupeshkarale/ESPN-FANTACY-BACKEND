@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "name": "India vs Afghanistan, Super Four, Match 5 (A1 v B2)",
+    "matchType": "t20",
+    "status": "Match not started",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "date": "2022-09-08",
+    "dateTimeGMT": "2022-09-08T14:00:00",
+    "teams": ["India", "Afghanistan"],
+    "teamInfo": [
+      {
+        "name": "Afghanistan",
+        "shortname": "AFG",
+        "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
+      },
+      {
+        "name": "India",
+        "shortname": "IND",
+        "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
+      }
+    ],
+    "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 2,
+    "name": "Guyana Amazon Warriors vs St Kitts And Nevis Patriots, 10th Match",
+    "status": "Match not started",
+    "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+    "date": "2022-09-08",
+    "dateTimeGMT": "2022-09-08T14:00:00",
+    "teams": ["Guyana Amazon Warriors", "St Kitts And Nevis Patriots"],
+    "teamInfo": [
+      {
+        "name": "Guyana Amazon Warriors",
+        "shortname": "GAW",
+        "img": "https://g.cricapi.com/img/teams/174-637945408285271060.webp"
+      },
+      {
+        "name": "St Kitts and Nevis Patriots",
+        "shortname": "SNP",
+        "img": "https://g.cricapi.com/img/teams/277-637937608859640652.webp"
+      }
+    ],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 3,
+    "name": "India A vs New Zealand A, 2nd unofficial Test",
+    "matchType": "test",
+    "status": "Match not started",
+    "venue": "KSCA Hubli Cricket Ground, Hubli",
+    "date": "2022-09-08",
+    "dateTimeGMT": "2022-09-08T04:30:00",
+    "teams": ["India A", "New Zealand A"],
+    "teamInfo": [
+      {
+        "name": "India A",
+        "shortname": "INA",
+        "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
+      },
+      {
+        "name": "New Zealand A",
+        "shortname": "NZA",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      }
+    ],
+    "series_id": "9dce2d40-6d94-475b-911b-9f5ba2f07901",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 4,
+    "name": "Scotland Women vs Ireland Women, 3rd T20I",
+    "matchType": "t20",
+    "status": "Match not started",
+    "venue": "Grange Cricket Club, Edinburgh",
+    "date": "2022-09-08",
+    "dateTimeGMT": "2022-09-08T10:00:00",
+    "teams": ["Scotland Women", "Ireland Women"],
+    "teamInfo": [
+      {
+        "name": "Ireland Women",
+        "shortname": "IRW",
+        "img": "https://g.cricapi.com/img/teams/1420-637926315409640205.png"
+      },
+      {
+        "name": "Scotland Women",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      }
+    ],
+    "series_id": "b4045334-76bc-425c-94d6-e5425a6c183d",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 5,
+    "name": "Saint Lucia Kings vs Jamaica Tallawahs, 9th Match",
+    "status": "Match not started",
+    "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+    "date": "2022-09-07",
+    "dateTimeGMT": "2022-09-07T23:00:00",
+    "teams": ["Saint Lucia Kings", "Jamaica Tallawahs"],
+    "teamInfo": [
+      {
+        "name": "Jamaica Tallawahs",
+        "shortname": "JT",
+        "img": "https://g.cricapi.com/img/teams/191-637945123659144190.webp"
+      },
+      {
+        "name": "Saint Lucia Kings",
+        "shortname": "SLK",
+        "img": "https://g.cricapi.com/img/teams/266-637937643184202597.webp"
+      }
+    ],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 6,
+    "name": "Barbados Royals vs Trinbago Knight Riders, 8th Match",
+    "status": "Match not started",
+    "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+    "date": "2022-09-07",
+    "dateTimeGMT": "2022-09-07T14:00:00",
+    "teams": ["Barbados Royals", "Trinbago Knight Riders"],
+    "teamInfo": [
+      {
+        "name": "Barbados Royals",
+        "shortname": "BR",
+        "img": "https://g.cricapi.com/img/teams/114-637959253434216362.webp"
+      },
+      {
+        "name": "Trinbago Knight Riders",
+        "shortname": "TKR",
+        "img": "https://g.cricapi.com/img/teams/293-637932465560269082.png"
+      }
+    ],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 7,
+    "name": "India vs Sri Lanka, Super Four, Match 3 (A1 v B1)",
+    "matchType": "t20",
+    "status": "Match not started",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "date": "2022-09-06",
+    "dateTimeGMT": "2022-09-06T14:00:00",
+    "teams": ["India", "Sri Lanka"],
+    "teamInfo": [
+      {
+        "name": "India",
+        "shortname": "IND",
+        "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
+      },
+      {
+        "name": "Sri Lanka",
+        "shortname": "SL",
+        "img": "https://g.cricapi.com/img/teams/86-637877070226216908.webp"
+      }
+    ],
+    "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 8,
+    "name": "Scotland Women vs Ireland Women, 2nd T20I",
+    "matchType": "t20",
+    "status": "Match not started",
+    "venue": "Grange Cricket Club, Edinburgh",
+    "date": "2022-09-06",
+    "dateTimeGMT": "2022-09-06T12:00:00",
+    "teams": ["Scotland Women", "Ireland Women"],
+    "teamInfo": [
+      {
+        "name": "Ireland Women",
+        "shortname": "IRW",
+        "img": "https://g.cricapi.com/img/teams/1420-637926315409640205.png"
+      },
+      {
+        "name": "Scotland Women",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      }
+    ],
+    "series_id": "b4045334-76bc-425c-94d6-e5425a6c183d",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 9,
+    "name": "Kenya vs Nepal, 3rd unofficial ODI",
+    "matchType": "t20",
+    "status": "Nepal won by 6 wkts",
+    "venue": "Gymkhana Club Ground, Nairobi",
+    "date": "2022-09-05",
+    "dateTimeGMT": "2022-09-05T07:00:00",
+    "teams": ["Kenya", "Nepal"],
+    "teamInfo": [
+      {
+        "name": "Kenya",
+        "shortname": "KEN",
+        "img": "https://g.cricapi.com/img/teams/620-637877088284816006.webp"
+      },
+      {
+        "name": "Nepal",
+        "shortname": "NEP",
+        "img": "https://g.cricapi.com/img/teams/54-637877084789981539.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 255,
+        "w": 9,
+        "o": 50,
+        "inning": "Kenya Inning 1"
+      },
+      {
+        "r": 258,
+        "w": 4,
+        "o": 47.1,
+        "inning": "Nepal Inning 1"
+      }
+    ],
+    "series_id": "5a7bbded-96ac-449d-916a-29cf5454744e",
+    "fantasyEnabled": true,
+    "bbbEnabled": true,
+    "hasSquad": true
+  },
+  {
+    "id": 10,
+    "name": "Scotland Women vs Ireland Women, 1st T20I",
+    "matchType": "t20",
+    "status": "Ireland Women won by 8 wkts",
+    "venue": "Grange Cricket Club, Edinburgh",
+    "date": "2022-09-05",
+    "dateTimeGMT": "2022-09-05T12:00:00",
+    "teams": ["Scotland Women", "Ireland Women"],
+    "teamInfo": [
+      {
+        "name": "Ireland Women",
+        "shortname": "IRW",
+        "img": "https://g.cricapi.com/img/teams/1420-637926315409640205.png"
+      },
+      {
+        "name": "Scotland Women",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      }
+    ],
+    "score": [
+      {
+        "r": 133,
+        "w": 6,
+        "o": 20,
+        "inning": "Scotland Women Inning 1"
+      },
+      {
+        "r": 137,
+        "w": 2,
+        "o": 16.2,
+        "inning": "Ireland Women Inning 1"
+      }
+    ],
+    "series_id": "b4045334-76bc-425c-94d6-e5425a6c183d",
+    "fantasyEnabled": true,
+    "bbbEnabled": true,
+    "hasSquad": true
+  },
+  {
+    "id": 11,
+    "name": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors, 7th Match",
+    "status": "There is no scorecard available for this match.",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "date": "2022-09-04",
+    "dateTimeGMT": "2022-09-04T23:00:00",
+    "teams": ["St Kitts and Nevis Patriots", "Guyana Amazon Warriors"],
+    "teamInfo": [
+      {
+        "name": "Guyana Amazon Warriors",
+        "shortname": "GAW",
+        "img": "https://g.cricapi.com/img/teams/174-637945408285271060.webp"
+      },
+      {
+        "name": "St Kitts and Nevis Patriots",
+        "shortname": "SNP",
+        "img": "https://g.cricapi.com/img/teams/277-637937608859640652.webp"
+      }
+    ],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 12,
+    "name": "Trinbago Knight Riders Women vs Barbados Royals Women, Final",
+    "status": "Trinbago Knight Riders Women won by 10 runs",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "date": "2022-09-04",
+    "dateTimeGMT": "2022-09-04T18:30:00",
+    "teams": ["Trinbago Knight Riders Women", "Barbados Royals Women"],
+    "teamInfo": [
+      {
+        "name": "Barbados Royals Women",
+        "shortname": "BRW",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      },
+      {
+        "name": "Trinbago Knight Riders Women",
+        "shortname": "TKRW",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      }
+    ],
+    "score": [
+      {
+        "r": 100,
+        "w": 7,
+        "o": 20,
+        "inning": "Trinbago Knight Riders Women Inning 1"
+      },
+      {
+        "r": 90,
+        "w": 10,
+        "o": 18.4,
+        "inning": "Barbados Royals Women Inning 1"
+      }
+    ],
+    "series_id": "13ae56fb-f611-4bb4-91c8-d54c97e1b4e1",
+    "fantasyEnabled": true,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 13,
+    "name": "Barbados Royals vs Saint Lucia Kings, 6th Match",
+    "status": "Barbados Royals won by 11 runs (DLS Method)",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "date": "2022-09-04",
+    "dateTimeGMT": "2022-09-04T14:00:00",
+    "teams": ["Barbados Royals", "Saint Lucia Kings"],
+    "teamInfo": [
+      {
+        "name": "Barbados Royals",
+        "shortname": "BR",
+        "img": "https://g.cricapi.com/img/teams/114-637959253434216362.webp"
+      },
+      {
+        "name": "Saint Lucia Kings",
+        "shortname": "SLK",
+        "img": "https://g.cricapi.com/img/teams/266-637937643184202597.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 162,
+        "w": 7,
+        "o": 20,
+        "inning": "Barbados Royals Inning 1"
+      },
+      {
+        "r": 91,
+        "w": 4,
+        "o": 9,
+        "inning": "Saint Lucia Kings Inning 1"
+      }
+    ],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": true,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 14,
+    "name": "India vs Pakistan, Super Four, Match 2 (A1 v A2)",
+    "matchType": "t20",
+    "status": "Pakistan won by 5 wkts",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "date": "2022-09-04",
+    "dateTimeGMT": "2022-09-04T14:00:00",
+    "teams": ["India", "Pakistan"],
+    "teamInfo": [
+      {
+        "name": "India",
+        "shortname": "IND",
+        "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
+      },
+      {
+        "name": "Pakistan",
+        "shortname": "PAK",
+        "img": "https://g.cricapi.com/img/teams/66-637877075103236690.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 181,
+        "w": 7,
+        "o": 20,
+        "inning": "India Inning 1"
+      },
+      {
+        "r": 182,
+        "w": 5,
+        "o": 19.5,
+        "inning": "Pakistan Inning 1"
+      }
+    ],
+    "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+    "fantasyEnabled": true,
+    "bbbEnabled": true,
+    "hasSquad": true
+  },
+  {
+    "id": 15,
+    "name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders, 5th Match",
+    "status": "There is no scorecard available for this match.",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "date": "2022-09-03",
+    "dateTimeGMT": "2022-09-03T23:00:00",
+    "teams": ["St Kitts and Nevis Patriots", "Trinbago Knight Riders"],
+    "teamInfo": [
+      {
+        "name": "St Kitts and Nevis Patriots",
+        "shortname": "SNP",
+        "img": "https://g.cricapi.com/img/teams/277-637937608859640652.webp"
+      },
+      {
+        "name": "Trinbago Knight Riders",
+        "shortname": "TKR",
+        "img": "https://g.cricapi.com/img/teams/293-637932465560269082.png"
+      }
+    ],
+    "score": [],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": false,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 16,
+    "name": "Barbados Royals Women vs Guyana Amazon Warriors Women, 3rd Match",
+    "status": "Barbados Royals Women won by 4 wkts",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "date": "2022-09-03",
+    "dateTimeGMT": "2022-09-03T19:00:00",
+    "teams": ["Barbados Royals Women", "Guyana Amazon Warriors Women"],
+    "teamInfo": [
+      {
+        "name": "Barbados Royals Women",
+        "shortname": "BRW",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      },
+      {
+        "name": "Guyana Amazon Warriors Women",
+        "img": "https://h.cricapi.com/img/icon512.png"
+      }
+    ],
+    "score": [
+      {
+        "r": 100,
+        "w": 7,
+        "o": 20,
+        "inning": "Guyana Amazon Warriors Women Inning 1"
+      },
+      {
+        "r": 103,
+        "w": 6,
+        "o": 19,
+        "inning": "Barbados Royals Women Inning 1"
+      }
+    ],
+    "series_id": "13ae56fb-f611-4bb4-91c8-d54c97e1b4e1",
+    "fantasyEnabled": true,
+    "bbbEnabled": false,
+    "hasSquad": true
+  },
+  {
+    "id": 17,
+    "name": "Kenya vs Nepal, 2nd unofficial ODI",
+    "matchType": "t20",
+    "status": "Nepal won by 17 runs",
+    "venue": "Gymkhana Club Ground, Nairobi",
+    "date": "2022-09-03",
+    "dateTimeGMT": "2022-09-03T07:00:00",
+    "teams": ["Kenya", "Nepal"],
+    "teamInfo": [
+      {
+        "name": "Kenya",
+        "shortname": "KEN",
+        "img": "https://g.cricapi.com/img/teams/620-637877088284816006.webp"
+      },
+      {
+        "name": "Nepal",
+        "shortname": "NEP",
+        "img": "https://g.cricapi.com/img/teams/54-637877084789981539.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 230,
+        "w": 10,
+        "o": 49.2,
+        "inning": "Nepal Inning 1"
+      },
+      {
+        "r": 213,
+        "w": 10,
+        "o": 46.3,
+        "inning": "Kenya Inning 1"
+      }
+    ],
+    "series_id": "5a7bbded-96ac-449d-916a-29cf5454744e",
+    "fantasyEnabled": true,
+    "bbbEnabled": true,
+    "hasSquad": true
+  },
+  {
+    "id": 18,
+    "name": "Oval Invincibles Women vs Southern Brave Women, Final",
+    "matchType": "t20",
+    "status": "Oval Invincibles Women won by 5 wkts",
+    "venue": "Lord's, London",
+    "date": "2022-09-03",
+    "dateTimeGMT": "2022-09-03T14:00:00",
+    "teams": ["Oval Invincibles Women", "Southern Brave Women"],
+    "teamInfo": [
+      {
+        "name": "Oval Invincibles Women",
+        "shortname": "OIW",
+        "img": "https://g.cricapi.com/img/teams/2014-637967614898985011.webp"
+      },
+      {
+        "name": "Southern Brave Women",
+        "shortname": "SBW",
+        "img": "https://g.cricapi.com/img/teams/2015-637967614770065340.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 101,
+        "w": 7,
+        "o": 100,
+        "inning": "Southern Brave Women Inning 1"
+      },
+      {
+        "r": 105,
+        "w": 5,
+        "o": 94,
+        "inning": "Oval Invincibles Women Inning 1"
+      }
+    ],
+    "series_id": "932bbc99-ffc1-4020-b187-c298e6f4cd00",
+    "fantasyEnabled": true,
+    "bbbEnabled": true,
+    "hasSquad": true
+  },
+  {
+    "id": 19,
+    "name": "Sri Lanka vs Afghanistan, Super Four, Match 1 (B1 v B2)",
+    "matchType": "t20",
+    "status": "Sri Lanka won by 4 wkts",
+    "venue": "Sharjah Cricket Stadium, Sharjah",
+    "date": "2022-09-03",
+    "dateTimeGMT": "2022-09-03T14:00:00",
+    "teams": ["Sri Lanka", "Afghanistan"],
+    "teamInfo": [
+      {
+        "name": "Afghanistan",
+        "shortname": "AFG",
+        "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
+      },
+      {
+        "name": "Sri Lanka",
+        "shortname": "SL",
+        "img": "https://g.cricapi.com/img/teams/86-637877070226216908.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 175,
+        "w": 6,
+        "o": 20,
+        "inning": "Afghanistan Inning 1"
+      },
+      {
+        "r": 179,
+        "w": 6,
+        "o": 19.1,
+        "inning": "Sri Lanka Inning 1"
+      }
+    ],
+    "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
+    "fantasyEnabled": true,
+    "bbbEnabled": true,
+    "hasSquad": true
+  },
+  {
+    "id": 20,
+    "name": "Jamaica Tallawahs vs Guyana Amazon Warriors, 4th Match",
+    "status": "Jamaica Tallawahs won by 4 wkts",
+    "venue": "Warner Park, Basseterre, St Kitts",
+    "date": "2022-09-03",
+    "dateTimeGMT": "2022-09-03T14:00:00",
+    "teams": ["Jamaica Tallawahs", "Guyana Amazon Warriors"],
+    "teamInfo": [
+      {
+        "name": "Guyana Amazon Warriors",
+        "shortname": "GAW",
+        "img": "https://g.cricapi.com/img/teams/174-637945408285271060.webp"
+      },
+      {
+        "name": "Jamaica Tallawahs",
+        "shortname": "JT",
+        "img": "https://g.cricapi.com/img/teams/191-637945123659144190.webp"
+      }
+    ],
+    "score": [
+      {
+        "r": 142,
+        "w": 6,
+        "o": 20,
+        "inning": "Guyana Amazon Warriors Inning 1"
+      },
+      {
+        "r": 143,
+        "w": 6,
+        "o": 19.2,
+        "inning": "Jamaica Tallawahs Inning 1"
+      }
+    ],
+    "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
+    "fantasyEnabled": true,
+    "bbbEnabled": false,
+    "hasSquad": true
+  }
+]
