@@ -13,10 +13,18 @@ roleRouter.get("/matches", async (req, res) => {
 });
 roleRouter.get("/teams", async (req, res) => {
 
+  const { page, limit } = req.query;
+
+  const pageNumber = parseInt(page);
+  const limitNumber = parseInt(limit);
+  const startIndex = (pageNumber - 1) * limitNumber;
+  const endIndex = startIndex + limitNumber;
+
+  const teamsForPage = page && limit ? teams.slice(startIndex, endIndex) : teams
   res
     .send({
       sucess: true,
-      data: teams,
+      data: teamsForPage,
     })
     .status(201);
 });
